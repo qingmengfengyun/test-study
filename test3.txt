@@ -4,5 +4,6 @@ gitea 自动推送到 github测试
 gitea 自动推送到 github测试2
 gitea 自动推送到 github测试3
 
-gitui 测试
-asldjf
+
+lazyvim学习
+sadfj

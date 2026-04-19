@@ -6,3 +6,4 @@ print("1password托管gitssh密钥测试")
 gpg 子密钥签名测试
 gpg 独立子密钥签名测试
 windows github desktop push测试
+chege
