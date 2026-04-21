@@ -7,3 +7,5 @@ gitea 自动推送到 github测试3
 
 lazyvim学习
 sadfj
+hahahssj
+lazyvim 测试
